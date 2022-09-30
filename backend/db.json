@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Clayton Acerbi Goncalves",
+      "email": "acerbi10@hotmail.com",
+      "id": 1
+    },
+    {
+      "name": "Mariane Bruzon Debertis",
+      "email": "marianedebertis@hotmail.com",
+      "id": 2
+    },
+    {
+      "name": "Lucas Debertis Acerbi",
+      "email": "lucasdacerbi10@hotmail.com",
+      "id": 3
+    }
+  ]
+}
